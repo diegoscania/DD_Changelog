@@ -1,5 +1,5 @@
 
-## 26/10/2018
+## 26 Oct 2018
 ### Changelog feature available in the dashboard
 Starting from today, all new features will be announced using this channel also.
 - Major features (features which might impact users' way of using Dashboard) will be announced here and additional details will reach superusers before the deployment;
