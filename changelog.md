@@ -14,5 +14,7 @@ The maintenance protocol for Flexible maintenance has been added to the maintena
 - Additional information on the protocol will be added in the next update.
 
 ### Free text box for Notes
+Details to be added
+
 ### Workorder list
-:mailbox_closed:
+Details to be added
