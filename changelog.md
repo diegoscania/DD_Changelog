@@ -13,8 +13,7 @@ The maintenance protocol for Flexible maintenance has been added to the maintena
 - The protocol is available in the same language of the user's dashboard;
 - Additional information on the protocol will be added in the next update.
 
-### Free text box for Notes
-Details to be added
-
-### Workorder list
-Details to be added
+### Free text field for Notes
+A field for free text is added to the upper right corner when you open a Lead in the dashboard. Press Write to open the widget.
+- Number of characters not limited;
+- Notes are saved in relation to the Chassi number.
