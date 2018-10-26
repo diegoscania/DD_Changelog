@@ -17,3 +17,8 @@ The maintenance protocol for Flexible maintenance has been added to the maintena
 A field for free text is added to the upper right corner when you open a Lead in the dashboard. Press Write to open the widget.
 - Number of characters not limited;
 - Notes are saved in relation to the Chassi number.
+
+### New tabs in Dashboard, Open and Done Leads
+The Service Advisor now have the possibility to categorise the leads in “Open” and “Done”.
+- “Open leads” and “Start” will have the same content for the moment. This is showing all the leads that the Service Advisor did not book time for in the workshop. A lead should be marked as “Done” when a booking has been agreed with the customer.
+- “Done leads” will show the 40 latest Leads, marked as Done.
