@@ -1,7 +1,7 @@
 ## 29 Oct 2018
 ### Feedback feature available in the dashboard
 Users can now provide their feedback regarding the Dashboard, pressing "Give feedback" on the right side of the page.
-
+All the feedbacks will be collected by the Digital Dealer Team (centrally, at factory level) in order to improve the quality of the dashboard.
 
 ## 26 Oct 2018
 ### Changelog feature available in the dashboard
