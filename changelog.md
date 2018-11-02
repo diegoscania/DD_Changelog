@@ -1,3 +1,7 @@
+## 02 Nov 2018
+### Search improvements
+Now the user can search a vehicle using registration/VIN number in the search field as it was possible to search using chassis number.
+
 ## 29 Oct 2018
 ### Feedback feature available in the dashboard
 Users can now provide their feedback regarding the Dashboard, pressing "Give feedback" on the right side of the page.
