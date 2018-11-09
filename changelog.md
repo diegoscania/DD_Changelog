@@ -1,3 +1,7 @@
+## 09 Nov 2018
+### Maintenance protocol
+Additional data is now available in the maintenance protocol for Flexible maintenance in the maintenance widget.
+
 ## 02 Nov 2018
 ### Search improvements
 Now the user can also search a vehicle using registration/VIN number in the search field as it was possible to do using chassis number.
