@@ -1,3 +1,8 @@
+## 16 Nov 2018
+### Search improvements
+Search function is now updated with the possibility to use space and hyphen when searching for a registration number, for example 70-BKN-9.
+Information about vehicle will appear when user hits search button.
+
 ## 09 Nov 2018
 ### Maintenance protocol
 Additional data is now available in the maintenance protocol for Flexible maintenance in the maintenance widget.
