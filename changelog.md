@@ -1,3 +1,14 @@
+## 23 Nov 2018
+### Maintenance widget improvements
+Details regarding maintenance modules have been added to the the maintenance widget:
+- Module details;
+- Parts with details of description, parts number and quantity;
+- Fluids with details of which kind of fluid and the required volume;
+- Labour with the description of the standard time and duration.
+
+### Fault codes in local languages 
+Fault codes widget is now exposing alerts and details in the user’s language.
+
 ## 16 Nov 2018
 ### Search improvements
 Search function is now updated with the possibility to use space and hyphen when searching for a registration number, for example 70-BKN-9.
