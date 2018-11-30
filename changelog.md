@@ -1,3 +1,11 @@
+## 30 Nov 2018
+### Vehicle details widget
+- Mileage now to be found in vehicle information.
+- Separate mileage widget has been removed.
+
+### Free text field for notes.
+- Delete function added.
+
 ## 23 Nov 2018
 ### Maintenance widget improvements
 Details regarding maintenance modules have been added to the the maintenance widget:
