@@ -1,3 +1,10 @@
+## 7 Dec 2018
+### Empty leads moved to "done leads" automatically
+- The lead is now reflecting changes in the planned date of the maintenance event. If the maintenance is managed without the support of the dashboard and it is reported as performed, the lead is automatically moved to “Done Leads”.
+Furthermore, if a maintenance event which generated a lead is moved in time and the planned date is changed, the lead will now properly reflect this change.
+Please note! Existing leads should be marked as done manually!
+
+
 ## 30 Nov 2018
 ### Vehicle details widget
 - Mileage now to be found in vehicle information.
