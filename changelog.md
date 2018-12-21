@@ -1,3 +1,14 @@
+## 21 Dec 2018
+### User is now able to order leads by customers' name
+- This update allows the user to order leads according to the customers' name via the filter function in the leads list.
+
+### Minor bug fixes
+- Lead doesn't expose customers' name even if the information is present
+- Created lead is re-created when chassis number has been translated to VIN
+- Bad chassis not filtered out in Planned Maintenance properly
+
+All of the above has been solved!
+
 ## 7 Dec 2018
 ### Empty leads moved to "done leads" automatically
 - The lead is now reflecting changes in the planned date of the maintenance event. If the maintenance is managed without the support of the dashboard and it is reported as performed, the lead is automatically moved to “Done Leads”.
