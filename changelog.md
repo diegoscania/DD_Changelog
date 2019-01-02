@@ -1,3 +1,7 @@
+## 2 Jan 2019
+### New layout of search in header
+- This update changes the layout of the search field in the header. It also changes the icon to access release information.
+
 ## 21 Dec 2018
 ### User is now able to order leads by customers' name
 - This update allows the user to order leads according to the customers' name via the filter function in the leads list.
