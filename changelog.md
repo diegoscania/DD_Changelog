@@ -1,3 +1,7 @@
+## 11 Jan 2019
+### Preparation for coming Role - Service Sales Person now added as user when requesting access
+- From now the user has to specify the role for whom the access is requested. Either Service Advisor or Service Sales Person can be chosen and gives the user access to the respective dashboard. The default is set to Service Advisor.
+
 ## 2 Jan 2019
 ### New layout of search in header
 - This update changes the layout of the search field in the header. It also changes the icon to access release information.
