@@ -1,6 +1,6 @@
 ## 18 Jan 2019
 ### Software update widget improved
-Software update widget has been graphically improved so to expose more content and display it in a tidier and richer format.
+- Software update widget has been graphically improved so to expose more content and display it in a tidier and richer format.
 
 ## 11 Jan 2019
 ### Preparation for coming Role - Service Sales Person now added as user when requesting access
