@@ -1,3 +1,7 @@
+## 18 Jan 2019
+### Software update widget improved
+Software update widget has been graphically improved so to expose more content and display it in a tidier and richer format.
+
 ## 11 Jan 2019
 ### Preparation for coming Role - Service Sales Person now added as user when requesting access
 - From now the user has to specify the role for whom the access is requested. Either Service Advisor or Service Sales Person can be chosen and gives the user access to the respective dashboard. The default is set to Service Advisor.
