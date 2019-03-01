@@ -1,3 +1,15 @@
+## 01 Mar 2019
+### New leads list layout
+- New graphical layout.
+
+### Alert for session time out
+- Today, session times out without notification and this causes problems for users trying to use the dashboard.
+To alert user when the log in session is timed out, an alert function is implemented to notify and to reload the page.
+When this message appears, user is prompted to press “Renew session” button. Same page will be reloaded and user can continue to work.
+
+### Added country code to contracts
+- Contracts for different markets are now shown in the dashboard. Country code is added to information so user easy can identify which contract is valid.
+
 ## 18 Jan 2019
 ### Software update widget improved
 - Software update widget has been graphically improved so to expose more content and display it in a tidier and richer format.
