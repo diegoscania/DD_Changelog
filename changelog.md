@@ -1,4 +1,8 @@
 ## 01 Mar 2019
+
+### Beacon for news in “Dashboard updates”
+- A small red blinking beacon will inform the user every time a new content is available in the "Dashboard updates" section.
+
 ### New leads list layout
 - New graphical layout.
 
