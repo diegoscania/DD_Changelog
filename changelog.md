@@ -1,3 +1,11 @@
+## 06 Mar 2019
+
+### Performing workshop
+The performing workshop has been added to the details of the maintenance event
+
+### New information in Vehicle details
+- Delivery date and Warranty end date added to Vehicle details in dashboard.
+
 ## 01 Mar 2019
 
 ### Beacon for news in “Dashboard updates”
