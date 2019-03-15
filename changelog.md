@@ -1,3 +1,11 @@
+## 15 Mar 2019
+
+### Changed behaviour for leads marked as done but still in TRR status
+- Leads marked as done will not be recreated into “Open leads” list.
+
+### Corporate EPC contracts
+- EPC contracts added to the dashboard in contract widget.
+
 ## 06 Mar 2019
 
 ### Performing workshop
