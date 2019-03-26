@@ -1,3 +1,8 @@
+## 25 Mar 2019
+
+### Number of available occasions 
+- New counter added for each opportunity, exposing number of available occasions. New indication exposed to indicate the widget is not working properly in order to distinguish the case when there is no available occasion (0 campaigns for the vehicle) or when the information is not possible to retrieve due to technical issues.
+
 ## 15 Mar 2019
 
 ### Changed behaviour for leads marked as done but still in TRR status
