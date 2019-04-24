@@ -1,3 +1,18 @@
+## 24 Apr 2019
+
+### New information in Vehicle details - brake pads
+- Improved the visualization of the brake pads details, exposing details per axle in operational analysis widget in opportunities.
+
+## 18 Apr 2019
+
+### Date updates in the lead if the maintenance gets recalculated
+- When the maintenance planned date is changed due to recalculation, the planned date of the lead is updated according to the same date.
+
+## 16 Apr 2019
+
+### Search in dropdown list for selecting a workshop
+- Search functionality added to the dropdown list for selecting the workshop by clicking the dropdown list and simply start typing.
+
 ## 25 Mar 2019
 
 ### Number of available occasions 
