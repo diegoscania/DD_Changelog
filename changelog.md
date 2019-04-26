@@ -1,3 +1,30 @@
+## 26 Apr 2019
+
+### WhatFix
+- To simplify the process of informing users and giving them an automated way to get informed and learn new way of workings and procedure, Digital Dealer deployed WhatFix to simplify the communication to users. 
+- Guided tours available are now available for users in the “SelfHelp” label in Digital Dealer Dashboard. 
+
+### "Mark as done" button only available if a maintenance is selected
+- Users feedback reported that it was simple to move a lead as “done” without selecting any maintenance. This behaviour is considered confusing for users. From now on, users can move a lead to the next step (done/saved) only if a maintenance occasion have been selected.
+
+### Summary for maintenance event
+- A summary exposing all parts, standard times and fluids, is added in the maintenance widget so to expose in a single place all what is needed to perform the maintenance event.
+
+### Operation code added to module details 
+- Users feedback reported the need of knowing the operation code included in each module. The operation code has been added for each standard time in the maintenance event.
+
+## 25 Apr 2019
+
+### Work Order Flow
+
+Starting from today, Digital Dealer is supporting the whole journey of the vehicle in the workshop, from the moment a lead on a vehicle is received (a maintenance is due) to the point when the truck leaves the workshop.
+
+This flow includes four new phases to follow up the vehicle during the activities:
+  1. Leads: here you can select WHAT needs to be performed on the truck, selecting from the proposed opportunities.
+  2. Saved: in this phase, you define WHEN to perform the activities you selected.
+  3. Booked: in this phase, you wait for the customer and you check in the vehicle when it physically arrives to the workshop.
+  4. In production: this phase exposes the information related to the activities ongoing on the vehicle while it is in the workshop.    This phase ends when he vehicle is handed over to the customer.
+  
 ## 24 Apr 2019
 
 ### New information in Vehicle details - brake pads
