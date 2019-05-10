@@ -1,3 +1,11 @@
+## 10 May 2019
+
+### Automatic filling of mileage in Booked and In production pages
+- The system is now automatically fetching the latest available mileage in the Mileage widget in booked and in production pages.
+
+### Counter for available occasion in each list
+- A new counter indicating how many workorder are present in the current list has been added into the header.
+
 ## 26 Apr 2019
 
 ### WhatFix
