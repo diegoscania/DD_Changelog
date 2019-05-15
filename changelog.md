@@ -1,3 +1,14 @@
+## 15 May 2019
+
+### Takeover
+- It is now possible to take over a single maintenance event from another workshop.
+- To perform a Takeover, search for a vehicle and expand the details in the maintenance widget in the result page. 
+- In order to do it the maintenance event should be in status "empty" or "TRR" (takeover will not be available on "TR" and "WO" status)
+
+### Handover
+- It is now possible to hand over a single maintenance event to another workshop.
+- To perform a Handover, expand the details in the maintenance widget. 
+
 ## 10 May 2019
 
 ### Automatic filling of mileage in Booked and In production pages
