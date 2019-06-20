@@ -23,7 +23,7 @@ Reasons:
 - In case the service advisor is looking for a registration number or a chassis number which are not unique, it is now possible to see multiple options displayed om a drop-down list in the search results.
 
 ### Sorting of workorders list
--It is now possible to re-order workorders in the lists (Leads, Saved, Booked and In production) so to see newest leads on top.
+- It is now possible to re-order workorders in the lists (Leads, Saved, Booked and In production) so to see newest leads on top.
 
 ### Notes widget exposed on all pages
 - The note widget is now exposed in every step of the workorder flow(Leads, Saved, Booked, In production).
