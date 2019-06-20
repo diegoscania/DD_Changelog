@@ -1,3 +1,33 @@
+## 19 June 2019
+
+### Link to SPII (Scania Product Individual Information) in vehicle details widget
+- Users feedback reported the need to access more information regarding the vehicle. It is now possible to access SPII directly from a link in the vehicle details widget.
+
+### Mileage not available due – FMS subscription
+- In specific conditions, mileage from C200/C300 cannot be retrieved. In those situation it was not possible for the service advisor to understand the reason.
+A short description of the issue is exposed into the vehicle details widget.
+Reasons:
+  1. No communicator available for the vehicle – error message: Missing communicator
+  2. No active subscription with FMS available for the vehicle – error message: No subscription
+  3. Customer didn’t allowed Scania to access the information – error message: Not allowed
+
+## 4 June 2019
+
+### Maintenance widget - general improvement
+- Takeover and Handover are now only available in “blank” and “TRR” status
+- It is not possible anymore to select a maintenance in the opportunities widget which is not assigned to the workshop
+
+## 21 May 2019
+
+### Expose multiple results in the “Search”
+- In case the service advisor is looking for a registration number or a chassis number which are not unique, it is now possible to see multiple options displayed om a drop-down list in the search results.
+
+### Sorting of workorders list
+-It is now possible to re-order workorders in the lists (Leads, Saved, Booked and In production) so to see newest leads on top.
+
+### Notes widget exposed on all pages
+- The note widget is now exposed in every step of the workorder flow(Leads, Saved, Booked, In production).
+
 ## 15 May 2019
 
 ### Takeover
