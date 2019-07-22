@@ -1,3 +1,25 @@
+## 22 July 2019
+
+### Customer Interface Released
+A new widget has been released in Digital Dealer for the Service Advisor and a Customer Page for the customer which together enable both parties to have a conversation upon a due maintenance in order to book the vehicle in.
+
+### Workshop Schedule widget
+On the booked page, without having selected a workorder, the user can see an overview of the workorders that are in status booked and beyond. 
+- It shows one bar per workorder with drop-off-, start-, end- and pick-up- time. 
+- Within the bar it states chassis-number, registration number and customer name. 
+- Mouseover gives additional information about the content of the workorder. 
+- Clicking the bar opens the workorder. 
+- Different colours indicate the status of the workorder. 
+- A red line shows the current time. 
+
+## 5 July 2019
+
+### Notes widget - edit functionality
+- Users feedback reported the need to be able to edit a note in the notes widget. It is now possible to update the text saved into notes.
+
+### Release notes moved to the start page
+- The news regarding releases on Digital Dealer Dashbaord are now available in the start page to make it easier for the users to access them.
+
 ## 19 June 2019
 
 ### Link to SPII (Scania Product Individual Information) in vehicle details widget
