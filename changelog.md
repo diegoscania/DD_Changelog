@@ -1,3 +1,8 @@
+## 2 August 2019
+
+### Tooltip on check-in when mileage is missing 
+Users reported that it was hard to identify why it was not possible to check-in a vehicle when the mileage was missing in Booked page. A tooltip has been added on the checkbox which is explaining the reason why the user cannot proceed further.
+
 ## 22 July 2019
 
 ### Customer Interface Released
