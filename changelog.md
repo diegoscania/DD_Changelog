@@ -1,3 +1,17 @@
+## 16 August 2019
+
+### Show Location of the vehicle
+Digital Dealer added the possibility for service advisors to see the location of the vehicle. It will be shown on a map that now has been zoomed out a bit to be compliant to GDPR regulations. We will continue working on the zoom level to get the right level of zoom.
+
+### Self Help FAQ
+It is now possible to find “Frequently Asked Questions” (FAQ) in the Self Help. The Self Help will display useful questions depending on your dashboard location. You can also search for questions not found in current displayed set of questions. All questions are based on feedback from users.
+
+### Factory Warranty End Date
+Users feedback reported the need to change “Warranty End Date” to include Factory. Digital Dealer now displays: “Factory Warranty End Date”.
+
+### Translations
+Users feedback reported the need to have better translations. Digital Dealer has now updated translations for 20 languages.
+
 ## 2 August 2019
 
 ### Tooltip on check-in when mileage is missing 
