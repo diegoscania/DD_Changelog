@@ -1,3 +1,26 @@
+## 30 August 2019
+
+### Plan Type and Agreement removed from workorder lists
+The information regarding plan type or agreement is removed from the workorder list. It is now possible to see the type of plan and agreement in the maintenance widget instead. This is a temporary change. Soon DD will add the reason why a lead is generated to make this information available again.
+
+### Vehicle header
+Vehicle header has been updated to better expose information. 
+
+### CSV Export functionality for Aptum users
+Some users are relying on unofficial Scania DMSs which will not be integrated with Digital Dealer. In order to simplify their activities, DD will allow users to download the maintenance event summary in CSV format. A new download option is now available for the current maintenance event.
+
+### Merge maintenance widget (opportunity) with maintenance plan
+Digital Dealer merged the maintenance widget (in opportunity) with the maintenance plan. Additional information has been added to the widget: 
+- The Planned Distance for the event is now exposed in the current maintenance 
+- More details regarding time are now provided into the plan 
+- More information regarding additional jobs to be performed on modules are now exposed in the plan 
+- External status and MAC status are now merged into a single column: an event will go through statuses in the following order NOT PERFORMED>TRR>TR>WO>Performed 
+
+The current maintenance plan widget is removed. 
+
+### Change archiving rule for workorders
+DD will only archive workorder in LEAD phase. Workorders in BOOKED and IN PRODUCTION will not be automatically archived.
+
 ## 16 August 2019
 
 ### Show Location of the vehicle
