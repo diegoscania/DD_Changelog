@@ -1,3 +1,21 @@
+## 13 September 2019
+
+### Software module ELC4 updated
+Software module ELC4 is updated from Swedish to English. It’s now displayed in English in the dashboard.
+
+### Estimated time for arrival
+Under the vehicle section you will now see ETA to the workshop that are current active on the screen.
+
+### Maintenance plan always visible
+Users reported that it was hard to find the maintenance plan after recent changes. Maintenance plan is always expanded in the opportunities.
+
+### Loading indicator to add opportunities to workorders
+A loading indicator has been added to the checkboxes so the user can understand the opportunity is getting added to the workorder.
+
+### Event not selectable if already added on another workorder
+It was possible for users to add the same event twice, on two different workorders, creating a duplication. 
+It is no longer possible to add an event on more than one workorder.
+
 ## 30 August 2019
 
 ### Plan Type and Agreement removed from workorder lists
