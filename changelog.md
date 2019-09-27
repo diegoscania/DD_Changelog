@@ -1,4 +1,6 @@
 ## 26 September 2019
+
+### Fault Code widget moved into opportunities
 The fault code widget has been graphically redesigned to expose information in a simpler way.
 The fault code widget has been moved inside the opportunities section. 
 
