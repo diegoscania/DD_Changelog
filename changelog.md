@@ -1,3 +1,7 @@
+## 26 September 2019
+The fault code widget has been graphically redesigned to expose information in a simpler way.
+The fault code widget has been moved inside the opportunities section. 
+
 ## 13 September 2019
 
 ### Software module ELC4 updated
