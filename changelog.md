@@ -4,6 +4,9 @@
 The fault code widget has been graphically redesigned to expose information in a simpler way.
 The fault code widget has been moved inside the opportunities section. 
 
+### Add a note on chassis or on workorder
+Users reported that saving notes only on chassis level was not enough since many information are only relevant for the current workshop visit. It is now possible to save a note on the current workshop visit. A note saved on a workorder will be lost when the workorder is checked-out.
+
 ## 13 September 2019
 
 ### Software module ELC4 updated
