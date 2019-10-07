@@ -1,3 +1,13 @@
+## 08 October 2019
+
+### Jobs to be performed widget exposes all jobs
+In preparation of the release of Ad hoc Jobs and VHC, the Jobs to be performed is showing all jobs present in the workorder. As a result, users will start to always see the VHC job inserted.
+
+## 07 October 2019
+
+### Work Order Information widget
+The Work Order Information widget is now always presented as collapsed when the Service Advisor enters in the lead for the first time. 
+
 ## 26 September 2019
 
 ### Fault Code widget moved into opportunities
