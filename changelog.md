@@ -1,6 +1,6 @@
 ## 08 October 2019
 
-### In production list is now re-order on the base of the check in date instead of booked date
+### In production list is now ordered on the base of the check in date instead of booked date
 The workorder list in "In production" is now exposing check in date in place of booked date.
 
 ### Jobs to be performed widget exposes all jobs
