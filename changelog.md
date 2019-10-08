@@ -1,5 +1,8 @@
 ## 08 October 2019
 
+### In production list is now re-order on the base of the check in date instead of booked date
+The workorder list in "In production" is now exposing check in date in place of booked date.
+
 ### Jobs to be performed widget exposes all jobs
 In preparation of the release of Ad hoc Jobs and VHC, the Jobs to be performed is showing all jobs present in the workorder. As a result, users will start to always see the VHC job inserted.
 
