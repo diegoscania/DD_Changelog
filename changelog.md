@@ -3,7 +3,7 @@
 ### General improvements in "Vehicle Information" widgets
 The whole section dedicated to Vehicle Information has been improved.
 - Vehicle details and contract details are now exposing information in a simpler way. The visualization of the information is now better on different resolutions.
-- Contact information is now presented with an updated layout. It is now possible to change the title (Driver, Manager, ...) of an already existing contact.
+- Contact information is now presented with an updated layout. It is now possible to change the title (Driver, Manager, ...) of an already existing contact. The widget is now responsive and performs better.
 
 ## 08 October 2019
 
