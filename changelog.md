@@ -1,3 +1,25 @@
+## 25 October 2019
+
+### Updated vehicle details, contact and contract information
+Vehicle details, contacts and contract information have been grouped into a container which is now collapsible.
+
+### Work order information widget collapsible
+Work order information has been included into a container which is now collapsible.
+
+### Translation for the whole dashboard, including Customer interface 
+Digital Dealer has been translated in more than 20 languages to better support users. Customer interface is now translated.
+
+### Turn a VHC-finding into a repair job 
+A Finding from Vehicle-Health-Check can now be turned into a repair job. Starting from the Lead status within the Repair widget the user can find “add repair” within the menu at the finding. The user then has to add a Job-description, time, main- and subgroup and click save. The repair job will then be shown and also automatically added to the current workorder. 
+
+### Edit or Delete a repair job
+A Repair can be edited or deleted using the menu next to the job-line he wants to handle. Clicking on Edit will open the dialogue box that allows to change the content (job-description, time, main-, subgroup). Clicking Delete will open a dialogue box that asks to user to confirm or cancel the action.
+
+### Default values for Drop-Off and Pick-Up time
+
+Global Planning uses different types of dates- and times in order to plan for a vehicle visit for service. The dates and times for Start and End should be used to reflect the timespan while a technician will work on the vehicle. The dates and times for Drop-Off and Pick-Up should reflect the agreement with the customer when the vehicle is available for the workshop to perform the jobs. In order to follow standards, support DMS-integration and make it easier for the Service Advisor to-do so, the system will propose default values for Drop-Off and Pick-Up times. 
+When the user decides to enter only Start- and End-time for a workorder, the system will propose him Drop-Off and Pick-Up times. Whereas Drop-Off is 30 minutes earlier than Start and Pick-up is 30 minutes later than End time. 
+
 ## 11 October 2019
 
 ### General improvements in "Vehicle Information" widgets
