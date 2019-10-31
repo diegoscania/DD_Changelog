@@ -1,3 +1,8 @@
+## 31 October 2019
+
+### Labour Code update in maintenance widget
+The labour code is now exposed in maintenance widget with the 8 digit format.
+
 ## 25 October 2019
 
 ### Updated vehicle details, contact and contract information
